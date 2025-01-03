@@ -1,1 +1,9 @@
-
+{
+  "ins":[
+  {
+    "type": "ah",
+    "action": "buy",
+    "cmd": "/ah"
+  }
+  ]
+}
