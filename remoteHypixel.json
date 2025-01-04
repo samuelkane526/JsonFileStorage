@@ -1,9 +1,1 @@
-{
-  "ins":[
-  {
-    "type": "ah",
-    "action": "buy",
-    "cmd": "/ah"
-  }
-  ]
-}
+{"key": "new value"}
