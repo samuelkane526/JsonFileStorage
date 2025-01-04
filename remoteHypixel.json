@@ -1,1 +1,9 @@
-{"key": "new value"}
+{
+    "ins":[
+    {
+      "type": "ah",
+      "action": "buy",
+      "cmd": "/viewauction de82a40ca22e4c6db82d300b41c267b3"
+    }
+    ]
+  }
