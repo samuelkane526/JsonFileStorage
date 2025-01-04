@@ -1,9 +1,11 @@
 {
     "ins":[
     {
-      "type": "ah",
-      "action": "buy",
-      "cmd": "/viewauction 5d7a69b328e84ed497dfce72d16faf1b"
+        "type": "ah",
+        "action": "sell",
+        "slot": "11",
+        "price": "1000",
+        "hours": "48" 
     }
     ]
   }
